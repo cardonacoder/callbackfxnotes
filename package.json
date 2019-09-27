@@ -1,0 +1,24 @@
+{
+  "name": "callbackfxnotes",
+  "version": "1.0.0",
+  "description": "- **Callback** es una fx que se pasa como parámetro a otra función.\r - **Función de orden superior** Es una función que recibe como parámetro otra función. Es decir, no recibe un valor, como un entero, una cadena, un booleano, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardonacoder/callbackfxnotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardonacoder/callbackfxnotes/issues"
+  },
+  "homepage": "https://github.com/cardonacoder/callbackfxnotes#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "jshint": "^2.10.2"
+  }
+}
